@@ -1,3 +1,3 @@
 # LuckyCards
 
-C++ Terminal roulette game 
+C++ Terminal card game 
