@@ -1,3 +1,3 @@
 # LuckyCards
 
-C++ Terminal card game 
+Java Terminal card game 
